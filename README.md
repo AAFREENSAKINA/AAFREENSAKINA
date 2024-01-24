@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AAFREENSAKINA
-- 👀 I’m interested in GENOME SEQUENCING AND ASSEMBLY
-- 🌱 I’m currently learning GENOME SEQUENCING
-- 💞️ I’m looking to collaborate on GENOME ASSEMBLY
+- 👋 Hi, I’m @Aafreen Sakina
+- 👀 I’m interested in Structural Variant Analysis in crops
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me as3646@cornell.edu
 
 <!---
